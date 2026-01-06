@@ -19,9 +19,9 @@ Finding a great movie to watch can be overwhelming. This project builds a smart 
 ### Output
 Recommended movies similar to 'Iron Man':
 
-      primaryTitle           averageRating   rank
-2448  Iron Man 3                7.1          2449
-3283  Iron Man 2                6.9          3284
-4590  The Man in the Iron Mask  6.5          4591
-1087  Spider-Man 2              7.5          1088
-1367  Spider-Man                7.4          1368
+            primaryTitle           averageRating   rank
+      2448  Iron Man 3                7.1          2449
+      3283  Iron Man 2                6.9          3284
+      4590  The Man in the Iron Mask  6.5          4591
+      1087  Spider-Man 2              7.5          1088
+      1367  Spider-Man                7.4          1368
