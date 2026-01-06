@@ -11,13 +11,10 @@ Finding a great movie to watch can be overwhelming. This project builds a smart 
   
 ## Example Recommendation Output
 ### Input movie
-movie_name = "Iron Man"
-
-recommended_movies_df = recommend_movies(movie_name, n=5)
-
-print(f"Recommended movies similar to '{movie_name}':")
-
-print(recommended_movies_df)
+      movie_name = "Iron Man"
+      recommended_movies_df = recommend_movies(movie_name, n=5)
+      print(f"Recommended movies similar to '{movie_name}':")
+      print(recommended_movies_df)
 
 ### Output
 Recommended movies similar to 'Iron Man':
